@@ -47,3 +47,4 @@ productsV2[newProductsV2] = {
 };
 
 console.log(productsV2);
+

@@ -1,4 +1,4 @@
-// .every retorna con un bolean cuando todos los elementos cumppen con la condicion , en este ejemplo que todos los items sean mayores a 40 (false)
+// .every retorna con un bolean cuando todos los elementos cumplen con la condicion , en este ejemplo que todos los items sean mayores a 40 (false)
 
 const numbers = [1, 30, 49, 29, 10, 13];
 

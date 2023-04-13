@@ -1,3 +1,5 @@
+// usando .join anexas separadores dentro de los strign del array
+
 const elements = ["fire", "water", "air"];
 
 const newElements = elements.join(" | ");
